@@ -74,7 +74,7 @@ gem "public_suffix"
 gem 'puma'
 gem 'rack-cors', require: 'rack/cors'
 gem 'rack-proxy', git: 'https://github.com/ncr/rack-proxy'
-gem "rails", "~> 5.2"
+gem "rails", "~> 6.0"
 gem "rails-controller-testing"
 gem "ransack"
 gem "redcarpet"
