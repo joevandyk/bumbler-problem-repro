@@ -235,7 +235,7 @@ GEM
       faraday_middleware (>= 0.10)
       hashie (>= 2.0, < 4.0)
     gender_detector (2.0.0)
-    geocoder (1.5.2)
+    geocoder (1.6.1)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
     google_maps_service (0.1.0)
