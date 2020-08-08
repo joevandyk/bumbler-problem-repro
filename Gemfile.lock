@@ -293,7 +293,8 @@ GEM
       escape
       json
       rack
-    kramdown (2.1.0)
+    kramdown (2.3.0)
+      rexml
     ladda-bootstrap-rails (0.1.0)
     launchy (2.4.3)
       addressable (~> 2.3)
@@ -455,6 +456,7 @@ GEM
       mime-types (>= 1.16, < 4.0)
       netrc (~> 0.8)
     retriable (3.1.2)
+    rexml (3.2.4)
     rinku (2.0.6)
     rmagick (4.0.0)
     roo (2.8.2)
